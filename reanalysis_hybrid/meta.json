@@ -1,0 +1,16 @@
+{
+ "selected": "RF",
+ "tuned_onehot": {
+  "min_samples_leaf": 5,
+  "max_features": 0.5
+ },
+ "tuned_cyclic": {
+  "min_samples_leaf": 20,
+  "max_features": 1.0
+ },
+ "split": [
+  5241,
+  1747,
+  1748
+ ]
+}

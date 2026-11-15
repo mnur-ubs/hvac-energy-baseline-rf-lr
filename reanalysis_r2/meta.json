@@ -1,0 +1,47 @@
+{
+ "selected": "RF / cyclic / all",
+ "best_params": {
+  "RF / cyclic / all": {
+   "min_samples_leaf": 20,
+   "max_features": 1.0
+  },
+  "RF / cyclic / calendar": {
+   "min_samples_leaf": 50,
+   "max_features": 1.0
+  },
+  "RF / cyclic / noLag1": {
+   "min_samples_leaf": 50,
+   "max_features": 1.0
+  },
+  "RF / int / all": {
+   "min_samples_leaf": 20,
+   "max_features": 1.0
+  },
+  "RF / int / calendar": {
+   "min_samples_leaf": 50,
+   "max_features": 1.0
+  },
+  "RF / int / noLag1": {
+   "min_samples_leaf": 50,
+   "max_features": 1.0
+  },
+  "RF / onehot / all": {
+   "min_samples_leaf": 5,
+   "max_features": 0.5
+  },
+  "RF / onehot / calendar": {
+   "min_samples_leaf": 50,
+   "max_features": 1.0
+  },
+  "RF / onehot / noLag1": {
+   "min_samples_leaf": 5,
+   "max_features": 0.5
+  }
+ },
+ "n": 8736,
+ "split": [
+  5241,
+  1747,
+  1748
+ ]
+}

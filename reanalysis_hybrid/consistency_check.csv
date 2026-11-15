@@ -1,0 +1,15 @@
+Item,Manuscript,This run,Matches at printed precision
+RF validation RMSE,2.340,2.339954572470947,True
+LR validation RMSE,2.668,2.6680755766091306,True
+RF test MAE,2.158,2.1582090712588053,True
+RF test RMSE,2.976,2.9758869315339114,True
+RF test R²,0.003,0.0032286119267941338,True
+LR test MAE,2.152,2.152113449322705,True
+LR test RMSE,2.796,2.796014085143183,True
+LR test R²,0.120,0.12008358311919165,True
+DM statistic LR vs RF (test),-2.85,-2.852614535504438,True
+DM p-value (test),0.004,0.004387156161364282,True
+Calendar-only RF test RMSE,2.775,2.775352524489422,True
+RF hours with e > τ (test),120,120,True
+RF kWh over hours > τ,821,821.1464739130955,True
+RF kWh > τ as % of use,16.3,16.27986054888472,True
